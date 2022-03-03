@@ -51,7 +51,7 @@ goButton.onclick = function calculate() {
         line => !(line.startsWith('#') | line.length < 3)
       );
       trips = trips.map(
-        line => line.slice(0, -1).split(',').map(
+        line => line.split(',').map(
           element => parseInt(element) ? parseInt(element) : element
         ).sort((a,b) => a<b)
       );
