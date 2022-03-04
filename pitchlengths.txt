@@ -155,6 +155,6 @@ Valley Entrance (Master Cave),15
 Forget-me-Pot,40,30
 Kail Pot,15
 Low Douk,5
-Marble Steps (Main via Lost Marbles),12,12,35
+Marble Steps (Main via Lost Marbles Pot),12,12,35
 The Mohole,30,60,10
 New Rift Pot (Cross Patch Inlet),20,20,45,10,12
