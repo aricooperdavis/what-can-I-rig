@@ -53,7 +53,7 @@ goButton.onclick = function calculate() {
       trips = trips.map(
         line => line.split(',').map(
           element => parseInt(element) ? parseInt(element) : element
-        ).sort((a,b) => a<b)
+        )
       );
 
       // Filter trips based on lengths
@@ -64,10 +64,10 @@ goButton.onclick = function calculate() {
           return false;
         };
         // Compare pitch lengths and available rope lengths
-        return pitches.slice(1).every((pitch, i) => {
+        return pitches.slice(0).sort((a,b) => a<b).slice(1).every((pitch, i) => {
           return pitch <= ropes[i];
         });
-      });
+      }).sort((a,b) => a[0]>b[0]);
 
       // Reset and populate results table
       tableData.innerHTML = '';
