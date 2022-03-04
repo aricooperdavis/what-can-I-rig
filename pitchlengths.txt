@@ -22,8 +22,8 @@ Rift Pot (Allotment)(Bob Hole),45,15,10,25,50
 Rift Pot (Allotment)(Main Shaft),45,15,10,25,45
 
 # CNCC http://cncc.org.uk/
-Alum (Dolly Tubs),35,25,35,45
-Alum (Dolly Tubs Alternative),25,25,35,45
+Alum (Dolly Tubs),35,25,35,45,20
+Alum (Dolly Tubs Alternative),25,25,35,45,20
 Alum (North West),80,20
 Alum (South East),55,25,20
 Alum (South East Alternative),55,40,20
