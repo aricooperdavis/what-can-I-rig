@@ -66,9 +66,9 @@ Hurnel Moss Pot,30,55,55,20
 Ireby Fell Cavern (Ding Dong Bell),40,35,10,35,15
 Ireby Fell Cavern (Shadow),70,10,35,15
 Jib Tunnel,55,55
-Jingling (Lateral Cleft),35,60,20
-Jingling (Little Gully),65,20
-Jingling (Tree),60,20
+Jingling Pot (Lateral Cleft),35,60,20
+Jingling Pot (Little Gully),65,20
+Jingling Pot (Tree),60,20
 Juniper Gulf,25,50,45,30,35,30,60
 Lancaster Hole (Rope Climb),55,20
 Lancaster Hole (Rope Climb alternative 1),55,25
