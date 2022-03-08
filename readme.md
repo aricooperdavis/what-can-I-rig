@@ -1,6 +1,8 @@
 # What can I rig?
 Enter the ropes you have and find out what trips you can go on (in the Yorkshire Dales).
 
+Find it at: [aricooperdavis.github.io/what-can-I-rig](https://aricooperdavis.github.io/what-can-I-rig/)
+
 ### Data Sources
 This data is not necessarily accurate, nor have I asked for permission to use it. So far it has been sourced from:
 
