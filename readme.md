@@ -9,6 +9,7 @@ This data is not necessarily accurate, nor have I asked for permission to use it
 - [Braemoor](https://www.braemoor.co.uk/caving/pitchlengths.txt)
 - [CNCC](https://cncc.org.uk)
 - [Northern Caves](https://northerncaves.co.uk/)
+- [Not for the Faint-Hearted (Mike Cooper)](https://starlessriver.com/shop/not-for-the-faint-hearted/)
 - [Simon Wilson](http://resinanchor.co.uk/6.html)
 
 As far as I am aware the following contributors have collated this data:
