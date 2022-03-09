@@ -15,6 +15,6 @@ thead, tfoot {
     color: #fff;
 }
 
-.join {
+input:checked + .join, tr.join {
   background: #ff9;
 }

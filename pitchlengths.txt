@@ -81,7 +81,7 @@ Lancaster Hole (Craptrap),55,40
 Langcliffe & Oddmire Pot (Langcliffe),35
 Langcliffe & Oddmire Pot (Oddmire),30
 Large Pot (Red Herring),25,50,50,30,15,20,5
-Large Pot (Red Herring, Flake Aven),25,50,50,40,15,20,5
+Large Pot (Red Herring - Flake Aven),25,50,50,40,15,20,5
 Large Pot (Colossus),25,50,5,5,50
 Little Hull Pot,45,60,15,25
 Long Drop Cave,15,12,55
