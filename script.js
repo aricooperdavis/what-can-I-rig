@@ -54,14 +54,14 @@ goButton.onclick = function calculate() {
     trips = trips.split('\n').filter(
       line => !(line.startsWith('#') | line.length < 3)
     );
-    for (let [_, trip] of Object.entries(trips)) {
+    for (let [_, trip] of Object.entries(trips.sort())) {
       trip = trip.split(',');
       // Trips can't have more pitches than we have ropes
       if (trip.length-1 > ropes.length) {
         continue;
       };
       // Pitches must be possible
-      pitches = trip.slice(1).map(x => parseInt(x)).sort().reverse();
+      pitches = trip.slice(1).map(x => parseInt(x.trim())).sort((a,b) => a<b);
       if (pitches.every((pitch, i) => {return pitch <= ropes[i]})) {
         let row = `<tr><td>${trip[0]}</td><td>${trip.slice(1).join(', ')}</td></tr>`;
         tableData.insertAdjacentHTML('beforeend',row);
