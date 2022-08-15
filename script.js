@@ -1,20 +1,33 @@
 // Remove rope input
-let ropeInput = document.getElementsByClassName('rope')[0];
 function removeRope(event) {
-  event.target.parentNode.remove()
+  event.target.parentNode.remove();
 }
 
 // Add rope input
-let addButton = document.getElementById('add');
-addButton.onclick = function addRope() {
+function addRope(el) {
   let newInput = ropeInput.cloneNode(true);
   newInput.lastChild.disabled = false;
   newInput.firstChild.value = '';
-  addButton.parentNode.insertBefore(newInput, addButton);
+  newInput.firstChild.onkeydown = handleTabs;
+  addButton.parentNode.insertBefore(newInput, el.target ?? el);
   for (let el of document.getElementsByClassName('rope')) {
     el.lastChild.onclick = removeRope;
   };
+  return newInput;
 };
+let addButton = document.getElementById('add');
+addButton.onclick = addRope;
+
+function handleTabs (event) {
+  if (event.code == 'Tab') {
+    let newInput = addRope(event.target.parentNode.nextElementSibling);
+    event.preventDefault();
+    newInput.firstChild.focus();
+
+  }
+}
+let ropeInput = document.getElementsByClassName('rope')[0];
+ropeInput.onkeydown = handleTabs;
 
 // Handle reset button
 let tableData = document.getElementById('data');
@@ -42,14 +55,14 @@ goButton.onclick = function calculate() {
   for (let el of document.getElementsByClassName('rope')) {
     ropes.push(el.firstChild.value);
   };
-  ropes = ropes.map(el => parseInt(el)).filter(el => el).sort((a,b) => a<b);
+  ropes = ropes.map(el => parseInt(el)).filter(el => el).sort((a, b) => a < b);
   let join_ropes = document.getElementById('join').checked;
 
   // Reset output
   tableData.innerHTML = '';
 
   // Get trip lengths
-  fetch('pitchlengths.txt').then(response => response.text()).then(function(trips) {
+  fetch('pitchlengths.txt').then(response => response.text()).then(function (trips) {
     // Parse and sort pitch lengths
     trips = trips.split('\n').filter(
       line => !(line.startsWith('#') | line.length < 3)
@@ -57,21 +70,21 @@ goButton.onclick = function calculate() {
     for (let [_, trip] of Object.entries(trips.sort())) {
       trip = trip.split(',');
       // Trips can't have more pitches than we have ropes
-      if (trip.length-1 > ropes.length) {
+      if (trip.length - 1 > ropes.length) {
         continue;
       };
       // Pitches must be possible
-      pitches = trip.slice(1).map(x => parseInt(x.trim())).sort((a,b) => a<b);
-      if (pitches.every((pitch, i) => {return pitch <= ropes[i]})) {
+      pitches = trip.slice(1).map(x => parseInt(x.trim())).sort((a, b) => a < b);
+      if (pitches.every((pitch, i) => { return pitch <= ropes[i] })) {
         let row = `<tr><td>${trip[0]}</td><td>${trip.slice(1).join(', ')}</td></tr>`;
-        tableData.insertAdjacentHTML('beforeend',row);
+        tableData.insertAdjacentHTML('beforeend', row);
         continue;
       };
-      if (join_ropes){
+      if (join_ropes) {
         for (let [_, _join] of Object.entries(join_combs(ropes))) {
-          if (pitches.every((pitch, i) => {return pitch <= _join[i]})) {
+          if (pitches.every((pitch, i) => { return pitch <= _join[i] })) {
             let row = `<tr class="join"><td>${trip[0]}</td><td>${trip.slice(1).join(', ')}</td></tr>`;
-            tableData.insertAdjacentHTML('beforeend',row);
+            tableData.insertAdjacentHTML('beforeend', row);
             break;
           };
         };
@@ -84,9 +97,9 @@ goButton.onclick = function calculate() {
 function join_combs(ropes) {
   function join(ropes) {
     let joins = [];
-    for (var i = 0; i < ropes.length-1; i++) {
-      for (var j = i+1; j < ropes.length; j++) {
-        joins.push(ropes.slice(0,i).concat(ropes[i]+ropes[j],ropes.slice(i+1,j),ropes.slice(j+1)));
+    for (var i = 0; i < ropes.length - 1; i++) {
+      for (var j = i + 1; j < ropes.length; j++) {
+        joins.push(ropes.slice(0, i).concat(ropes[i] + ropes[j], ropes.slice(i + 1, j), ropes.slice(j + 1)));
       }
     }
     return joins;
@@ -100,6 +113,6 @@ function join_combs(ropes) {
       });
     }
   });
-  joins = Object.values(joins.reduce((p,c) => (p[JSON.stringify(c)] = c,p),{}));
-  return(joins);
+  joins = Object.values(joins.reduce((p, c) => (p[JSON.stringify(c)] = c, p), {}));
+  return (joins);
 }
