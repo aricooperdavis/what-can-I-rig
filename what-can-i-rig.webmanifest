@@ -7,9 +7,8 @@
       "src": "favicon.png",
       "sizes": "48x48",
       "type": "image/png"
-    }
+    },
   ],
-  "start_url": "https://aricooperdavis.github.io/what-can-I-rig/",
   "display": "fullscreen",
   "theme_color": "#B12A34",
   "background_color": "#B12A34"
