@@ -47,6 +47,11 @@ resetButton.onclick = function reset() {
   document.getElementById('join').checked = false;
 };
 
+// Register service worker for PWA
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register('./sw.js');
+};
+
 // Handle go button
 let goButton = document.getElementById('go');
 goButton.onclick = function calculate() {
@@ -62,7 +67,7 @@ goButton.onclick = function calculate() {
   tableData.innerHTML = '';
 
   // Get trip lengths
-  fetch('pitchlengths.txt').then(response => response.text()).then(function (trips) {
+  fetch('../pitchlengths.txt').then(response => response.text()).then(function (trips) {
     // Parse and sort pitch lengths
     trips = trips.split('\n').filter(
       line => !(line.startsWith('#') | line.length < 3)
