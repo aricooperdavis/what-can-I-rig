@@ -1,3 +1,8 @@
+// Register service worker for PWA
+if ("serviceWorker" in navigator) {
+  navigator.serviceWorker.register('/what-can-I-rig/sw.js', {scope: '/what-can-I-rig/'});
+};
+
 // Remove rope input
 function removeRope(event) {
   event.target.parentNode.remove();
@@ -45,11 +50,6 @@ resetButton.onclick = function reset() {
   tableData.innerHTML = '';
   // Uncheck join
   document.getElementById('join').checked = false;
-};
-
-// Register service worker for PWA
-if ("serviceWorker" in navigator) {
-  navigator.serviceWorker.register('./sw.js');
 };
 
 // Handle go button

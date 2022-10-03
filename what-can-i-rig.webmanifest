@@ -9,9 +9,11 @@
       "type": "image/png"
     }
   ],
-  "scope": "https://aricooperdavis.github.io/what-can-I-rig/",
-  "start_url": "https://aricooperdavis.github.io/what-can-I-rig/",
+  "scope": "/what-can-I-rig/",
+  "start_url": "/what-can-I-rig/",
   "display": "fullscreen",
+  "orientation": "portrait",
+  "categories": ["utilities","sports"],
   "theme_color": "#B12A34",
   "background_color": "#B12A34"
 }
