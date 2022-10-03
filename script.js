@@ -67,7 +67,7 @@ goButton.onclick = function calculate() {
   tableData.innerHTML = '';
 
   // Get trip lengths
-  fetch('../pitchlengths.txt').then(response => response.text()).then(function (trips) {
+  fetch('./pitchlengths.txt').then(response => response.text()).then(function (trips) {
     // Parse and sort pitch lengths
     trips = trips.split('\n').filter(
       line => !(line.startsWith('#') | line.length < 3)
