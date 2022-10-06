@@ -4,16 +4,26 @@
   "description": "Given the ropes you've got, what trips can you rig in the Yorkshire Dales?",
   "icons": [
     {
-      "src": "favicon.png",
-      "sizes": "48x48",
-      "type": "image/png"
+      "src": "/what-can-I-rig/icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/what-can-I-rig/icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
     }
   ],
   "scope": "/what-can-I-rig/",
   "start_url": "/what-can-I-rig/",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "portrait",
-  "categories": ["utilities","sports"],
-  "theme_color": "#B12A34",
-  "background_color": "#B12A34"
+  "categories": [
+    "utilities",
+    "sports"
+  ],
+  "theme_color": "#006EB6",
+  "background_color": "#006EB6"
 }

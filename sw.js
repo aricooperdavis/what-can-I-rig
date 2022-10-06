@@ -1,11 +1,11 @@
 let cacheName = 'what-can-i-rig-v1';
 let cacheableContent = [
   '/what-can-I-rig/',
-  '/what-can-I-rig/favicon.png',
   '/what-can-I-rig/index.html',
-  '/what-can-I-rig/pitchlengths.txt',
+  '/what-can-I-rig/icons/favicon.png',
   '/what-can-I-rig/script.js',
   '/what-can-I-rig/css/style.css',
+  '/what-can-I-rig/pitchlengths.txt',
 ];
 
 // On install cache required assets
