@@ -3,6 +3,24 @@ if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register('/what-can-I-rig/sw.js', {scope: '/what-can-I-rig/'});
 };
 
+// Make installable
+let deferredPrompt;
+let installBtn = document.querySelector("#install");
+let installP = document.querySelector(".install");
+
+window.addEventListener("beforeinstallprompt", (e) => {
+  e.preventDefault();
+  deferredPrompt = e;
+  installP.style.display = "block";
+
+  installBtn.addEventListener("click", (e) => {
+    deferredPrompt.prompt();
+    deferredPrompt.userChoice.then((result) => {
+      deferredPrompt = null;
+    });
+  });
+});
+
 // Remove rope input
 function removeRope(event) {
   event.target.parentNode.remove();

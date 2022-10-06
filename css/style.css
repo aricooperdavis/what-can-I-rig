@@ -1,5 +1,24 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+.rope input, button, input {
+  min-height: 1.5rem;
+  min-width: 1.5rem;
+  margin: 1px;
+}
+
 .rope, label {
   display: block;
+}
+
+label * {
+  vertical-align: middle;
+}
+
+input#join {
+  margin-right: 0.25rem;
+  margin-bottom: 0.25rem;
 }
 
 #lengths, #results {
@@ -8,6 +27,11 @@
 
 table, td {
   border: 1px solid #333;
+}
+
+/* Install */
+p.install {
+  display: none;
 }
 
 /* Colours */
