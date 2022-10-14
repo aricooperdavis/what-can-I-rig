@@ -4,6 +4,7 @@ let cacheableContent = [
   '/what-can-I-rig/index.html',
   '/what-can-I-rig/icons/favicon.png',
   '/what-can-I-rig/script.js',
+  '/what-can-I-rig/sw.js',
   '/what-can-I-rig/css/style.css',
   '/what-can-I-rig/pitchlengths.txt',
 ];
@@ -29,7 +30,7 @@ self.addEventListener('activate', (e) => {
 // On fetch serve files from cache (if available)
 self.addEventListener('fetch', (e) => {
     e.responseWith((async () => {
-        let r = await caches.match(e.request);
+        let r = await caches.match(e.request, {ignoreSearch: true});
         // Serve cached file
         if (r) { return r; }
         // Else fetch remote, cache, and serve
