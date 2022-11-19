@@ -44,6 +44,8 @@ Bull Pot of the Witches (Chimney),20,30,25
 Calf Holes,25
 Calf Holes (Waterfall),25,30
 Car Pot,35,35,50
+Cherry Tree Hole (Simple),10,15
+Cherry Tree Hole (Downstream),10,15,15
 Christmas Pot,40,30,20,15
 Cow Pot,30,30,60
 Cupcake,12,12,10,15,40,10,15,15,15,40,45
