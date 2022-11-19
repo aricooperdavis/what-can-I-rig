@@ -51,6 +51,7 @@ Curtain Pot,30,20,12,10,10,10,20,25,25,30,25,10
 Deaths Head Hole,80,25
 Diccan Pot,20,30,15,40,35,30
 Disappointment Pot,15,30,20,15,25
+F'ing Hopeless Pot,20,20,8
 Flood Entrance,15,20,15,60
 Flood Entrance (Wades),30,15,20,15,60
 FOUL Pot,10,30,50,10,35
