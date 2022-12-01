@@ -29,6 +29,27 @@ table, td {
   border: 1px solid #333;
 }
 
+/* Leaflet map */
+
+div#map {
+  height: 20rem;
+  width: 40rem;
+  max-height: 95%;
+  max-width: 100%;
+}
+
+.leaflet-marker-icon.black {
+  filter: saturate(0);
+}
+
+.leaflet-marker-icon:not(.black) {
+  filter: hue-rotate(190deg) brightness(200%);
+}
+
+#lost_message {
+  display: none;
+}
+
 /* Install */
 p.install {
   display: none;
@@ -54,8 +75,16 @@ input:checked + .join, tr.join {
     filter: invert(100%);
   }
 
+  div#map {
+    filter: invert(100%);
+  }
+
   html {
     background-color: #111;
   }
   
+  .leaflet-marker-icon:not(.black) {
+    filter: invert(0%);
+  }
+
 }

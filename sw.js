@@ -35,8 +35,11 @@ self.addEventListener('fetch', (e) => {
         if (r) { return r; }
         // Else fetch remote, cache, and serve
         let response = await fetch(e.request);
-        let cache = await caches.open(cacheName)
-        cache.put(e.request, response.clone());
+        // Don't cache map tiles
+        if (!e.request.url.includes('openstreetmap')) {
+          let cache = await caches.open(cacheName)
+          cache.put(e.request, response.clone());
+        }
         return response;
     })());
 });

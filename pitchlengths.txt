@@ -3,198 +3,198 @@
 # Data sources shown before each data block
 
 # Braemoor http://www.braemoor.co.uk/caving/directory.shtml
-Aquamole Pot (alternative),50,30,20,35,18
-Bar Pot (alternative),30,15,10,55
-Lost Johns' Cave (Sink via Dome alternative),10,10,38,20,20,15,20
-Mongo Gill,19
-Notts Pot (Acrobat Pot),20,6,15,15,20,12,22
-Notts Pot (BUSS Route),20,6,15,40,25,12,45,50,55,15
-Notts Pot (De Profundis),20,6,15,15,20,20,28,20,50,55,15
+Aquamole Pot (alternative),[54.1999],[-2.4625],50,30,20,35,18
+Bar Pot (alternative),[54.1463],[-2.3813],30,15,10,55
+Lost Johns' Cave (Sink via Dome alternative),[54.2024],[-2.5062],10,10,38,20,20,15,20
+Mongo Gill,[54.0650],[-1.8544],19
+Notts Pot (Acrobat Pot),[54.1949],[-2.5058],20,6,15,15,20,12,22
+Notts Pot (BUSS Route),[54.1949],[-2.5058],20,6,15,40,25,12,45,50,55,15
+Notts Pot (De Profundis),[54.1949],[-2.5058],20,6,15,15,20,20,28,20,50,55,15
 
 # Simon Wilson http://www.resinanchor.co.uk/6.html
-Bull Pot,15,15,25,30,30
-Bull Pot (alternative 3rd),15,15,30,30,30
-Gingling Hole (Big Rift),12,10,20,20,17,12,25,15,10,12,17
-Gingling Hole (Big Pitch),12,10,20,20,17,12,15,15,35,50
-It's a Cracker,42,45,32
-Rift Pot (Allotment)(YRC 1904),45,15,10,25,40
-Rift Pot (Allotment)(Bob Hole),45,15,10,25,50
-Rift Pot (Allotment)(Main Shaft),45,15,10,25,45
+Bull Pot,[54.2036],[-2.4583],15,15,25,30,30
+Bull Pot (alternative 3rd),[54.2036],[-2.4583],15,15,30,30,30
+Gingling Hole (Big Rift),[54.1273],[-2.2231],12,10,20,20,17,12,25,15,10,12,17
+Gingling Hole (Big Pitch),[54.1273],[-2.2231],12,10,20,20,17,12,15,15,35,50
+It's a Cracker,[54.1999],[-2.5053],42,45,32
+Rift Pot (Allotment)(YRC 1904),[54.1513],[-2.3675],45,15,10,25,40
+Rift Pot (Allotment)(Bob Hole),[54.1513],[-2.3675],45,15,10,25,50
+Rift Pot (Allotment)(Main Shaft),[54.1513],[-2.3675],45,15,10,25,45
 
 # CNCC http://cncc.org.uk/
-Alum (Dolly Tubs),35,25,35,45,20
-Alum (Dolly Tubs alternative),25,25,35,45,20
-Alum (North West),80,20
-Alum (South East),55,25,20
-Alum (South East alternative),55,40,20
-Alum (South East Under the Bridge),55,20,45,20
-Aquamole Pot,50,30,20,60
-Aygill Caverns,15,17
-Bar Pot,35,60
-Big Meanie,70,35
-Birks Fell Cave,15,12,17,35
-Black Shiver Pot,30,20,25,55,60,15,8
-Boggarts Roaring Holes,20,10,20,5,25,25,10,20,30,10
-Boxhead Pot (Direct),55,75
-Boxhead Pot (Kendal Flyover),55,45,35,30
-Broken Finger Pot,15,10,10,15,50,30,35
-Brown Hill Pot,6,30,40,40,15
-Bull Pot of the Witches (Direct),25,30,25
-Bull Pot of the Witches (Chimney),20,30,25
-Calf Holes,25
-Calf Holes (Waterfall),25,30
-Car Pot,35,35,50
-Cherry Tree Hole (Simple),10,15
-Cherry Tree Hole (Downstream),10,15,15
-Christmas Pot,40,30,20,15
-Cow Pot,30,30,60
-Cupcake,12,12,10,15,40,10,15,15,15,40,45
-Curtain Pot,30,20,12,10,10,10,20,25,25,30,25,10
-Deaths Head Hole,80,25
-Diccan Pot,20,30,15,40,35,30
-Disappointment Pot,15,30,20,15,25
-F'ing Hopeless Pot,20,20,8
-Flood Entrance,15,20,15,60
-Flood Entrance (Wades),30,15,20,15,60
-FOUL Pot,10,30,50,10,35
-Gaping Gill (Main Shaft),30,90
-Gavel Pot,20,17,15,55,40
-Gavel Pot (via Short Drop Cave),20,30,17,15,55,40
-Grange Rigg Pot,24,10,15,20,10,20,15
-Growling Hole,15,5,15,55,40
-Hardrawkin Pot,40,40
-Henslers Pot,20,35,25,15,45
-Heron Pot,20,25
-Heron Pot (High Level),50
-Hunt Pot,30,45
-Hurnel Moss Pot,30,55,55,20
-Ireby Fell Cavern (Ding Dong Bell),40,35,10,35,15
-Ireby Fell Cavern (Shadow),70,10,35,15
-Jib Tunnel,55,55
-Jingling Pot (Lateral Cleft),35,60,20
-Jingling Pot (Little Gully),65,20
-Jingling Pot (Tree),60,20
-Jockey Hole,25,55
-Juniper Gulf,25,50,45,30,35,30,60
-Lancaster Hole (Rope Climb),55,20
-Lancaster Hole (Rope Climb alternative 1),55,25
-Lancaster Hole (Rope Climb alternative 2),55,30
-Lancaster Hole (Chasm),55,40
-Lancaster Hole (Craptrap),55,40
-Langcliffe & Oddmire Pot (Langcliffe),35
-Langcliffe & Oddmire Pot (Oddmire),30
-Large Pot (Red Herring),25,50,50,30,15,20,5
-Large Pot (Red Herring - Flake Aven),25,50,50,40,15,20,5
-Large Pot (Colossus),25,50,5,5,50
-Link Pot to The Mistral,8,20
-Little Hull Pot,45,60,15,25
-Long Drop Cave,15,12,55
-Long Kin East (Cave),40,50,35
-Long Kin East (Pot),10,40,50,35
-Long Kin West,45,55,15,70
-Lost Johns (Centipede),10,60,30,30,45,30
-Lost Johns (Dome),10,10,38,25,15,30,45,30
-Lost Johns (Sink via Monastery),10,10,50,15,50
-Lost Johns (Sink via Dome),10,10,38,30,15,20
-Magnetometer Pot,15,25
-Marble Sink,12,13,12,19,13
-Marble Steps Pot (Main via Gully),20,60,40
-Marble Steps Pot (Main via Sidewinder Wet),20,45,60
-Marble Steps Pot (Main via Sidewinder Dry),30,20,60
-Marble Steps Pot (Streamway via Gully & Intestines),20,60,40,10,30,10,25,25
-Marble Steps Pot (Streamway via Gully & Ninety),20,60,40,10,30,40,30
-Marilyn,40,35,20,15,25
-Mayday Hole,35,15,28,13,54,18
-Meregill Hole,20,40,55,30,50,25
-Meregill Hole (Dry alternative),25,30,55,30,50,25
-New Goyden Pot,25,20
-New Rift Pot (Direct),30,20,50
-New Rift Pot (Route 66),30,20,45
-Newby Moss Cave,35,25,10,17,20,12
-Nick Pot (Thornber's Entrance),35,25,68,35
-Notts Pot (Left Hand),20,6,15,25,45,15,50,55,15
-Notts Pot (Twilight Zone),20,6,15,55,25,15,50,55,15
-Notts Pot (Centre),20,6,15,40,55,50,55,15
-Notts Pot (Adamsons),20,6,15,15,20,25,55,50,55,15
-Out Sleets Beck Pot,10,15,28,30
-Pasture Gill Pot,25,25,50,5,20
-Penyghent Pot,12,12,55,15,17,10,15,17,12
-Penyghent Pot (with extensions),12,12,55,15,17,10,15,17,12,17,15
-Pillar Holes (No. 1),50
-Pillar Holes (No. 2),20,30,50
-Pillar Holes (No. 3),20,30,50
-Pippikin Pot,17,5,20,12,10,5,15
-Pool Sink,25,20,35,30
-Pool Sink (Pull through),50
-Rana Hole (Assynt),45,23,
-Rat Hole,45,60,45
-Roaring Hole (to Sunset Blvd),30,15,15,15,10
-Rowten Pot (Direct via Big Gully),55,30,30,65,35,35
-Rowten Pot (Direct via Eyehole),45,65,35,35
-Rowten Pot (Flyover via Big Gully),55,30,30,50,40,40
-Rowten Pot (Flyover via Eyehole),45,30,50,40,40
-Rumbling Hole,45,30,40,30,30
-Scanty Lardos Pot,30,40,20
-Sell Gill Holes (Dry),20,30,30
-Sell Gill Holes (Wet/Goblin),10,45,45
-Short Drop Cave (To Sump),20,50
-Shuttleworth Pot,20,60
-Simpson's Pot,20,10,10,10,15,10,15,20,15,15,30,15
-Simpson's Pot (Swinsto Great Aven),20,10,10,10,15,10,15,20,15,50
-Stream Passage Pot,25,45,50,40
-Sunset Hole,10,15,15,35
-Swinsto,15,10,25,25,60,35,15
-Swinsto (Pull through),45,15
-Tatham Wife Hole,10,45,30,20
-Top Sink,35,15
-Uamh nan Claig-ionn,5,15,25,12,16
-Valley Entrance (Toyland),18,10,12,16
-Vesper Pot,15,45,45,55
-Washfold Pot,48,5,34
-Yordas Pot (Top to Cave),30,40
-Yordas Pot (Middle to Cave),10,10,40
+Alum (Dolly Tubs),[54.1755],[-2.3465],35,25,35,45,20
+Alum (Dolly Tubs alternative),[54.1755],[-2.3465],25,25,35,45,20
+Alum (North West),[54.1755],[-2.3465],80,20
+Alum (South East),[54.1755],[-2.3465],55,25,20
+Alum (South East alternative),[54.1755],[-2.3465],55,40,20
+Alum (South East Under the Bridge),[54.1755],[-2.3465],55,20,45,20
+Aquamole Pot,[54.1999],[-2.4625],50,30,20,60
+Aygill Caverns,[54.2314],[-2.5178],15,17
+Bar Pot,[54.1463],[-2.3813],35,60
+Big Meanie,[54.2072],[-2.5124],70,35
+Birks Fell Cave,[54.1887],[-2.1074],15,12,17,35
+Black Shiver Pot,[54.1739],[-2.4044],30,20,25,55,60,15,8
+Boggarts Roaring Holes,[54.1506],[-2.4171],20,10,20,5,25,25,10,20,30,10
+Boxhead Pot (Direct),[54.1999],[-2.5060],55,75
+Boxhead Pot (Kendal Flyover),[54.1999],[-2.5060],55,45,35,30
+Broken Finger Pot,[54.1907],[-2.4452],15,10,10,15,50,30,35
+Brown Hill Pot,[54.2011],[-2.4411],6,30,40,40,15
+Bull Pot of the Witches (Direct),[54.2264],[-2.5189],25,30,25
+Bull Pot of the Witches (Chimney),[54.2264],[-2.5189],20,30,25
+Calf Holes,[54.1936],[-2.3019],25
+Calf Holes (Waterfall),[54.1936],[-2.3019],25,30
+Car Pot,[54.1477],[-2.3766],35,35,50
+Cherry Tree Hole (Simple),[54.1288],[-2.1827],10,15
+Cherry Tree Hole (Downstream),[54.1288],[-2.1827],10,15,15
+Christmas Pot,[54.1495],[-2.3730],40,30,20,15
+Cow Pot,[54.2223],[-2.5164],30,30,60
+Cupcake,[54.2004],[-2.5116],12,12,10,15,40,10,15,15,15,40,45
+Curtain Pot,[54.1187],[-2.2167],30,20,12,10,10,10,20,25,25,30,25,10
+Deaths Head Hole,[54.2071],[-2.5107],80,25
+Diccan Pot,[54.1764],[-2.3475],20,30,15,40,35,30
+Disappointment Pot,[54.1487],[-2.3835],15,30,20,15,25
+F'ing Hopeless Pot,[54.1941],[-2.5059],20,20,8
+Flood Entrance,[54.1470],[-2.3822],15,20,15,60
+Flood Entrance (Wades),[54.1470],[-2.3822],30,15,20,15,60
+FOUL Pot,[54.1270],[-2.2303],10,30,50,10,35
+Gaping Gill (Main Shaft),[54.1494],[-2.3824],30,90
+Gavel Pot,[54.2062],[-2.5135],20,17,15,55,40
+Gavel Pot (via Short Drop Cave),[54.2050],[-2.5072],20,30,17,15,55,40
+Grange Rigg Pot,[54.1497],[-2.3767],24,10,15,20,10,20,15
+Growling Hole,[54.1924],[-2.4421],15,5,15,55,40
+Hardrawkin Pot,[54.1861],[-2.3924],40,40
+Henslers Pot,[54.1480],[-2.3799],20,35,25,15,45
+Heron Pot,[54.2038],[-2.4393],20,25
+Heron Pot (High Level),[54.2038],[-2.4393],50
+Hunt Pot,[54.1519],[-2.2674],30,45
+Hurnel Moss Pot,[54.1470],[-2.3919],30,55,55,20
+Ireby Fell Cavern (Ding Dong Bell),[54.1909],[-2.5018],40,35,10,35,15
+Ireby Fell Cavern (Shadow),[54.1909],[-2.5018],70,10,35,15
+Jib Tunnel,[54.1494],[-2.3824],55,55
+Jingling Pot (Lateral Cleft),[54.2002],[-2.4631],35,60,20
+Jingling Pot (Little Gully),[54.2002],[-2.4631],65,20
+Jingling Pot (Tree),[54.2002],[-2.4631],60,20
+Jockey Hole,[54.1513],[-2.3675],25,55
+Juniper Gulf,[54.1552],[-2360],25,50,45,30,35,30,60
+Lancaster Hole (Rope Climb),[54.2214],[-2.5164],55,20
+Lancaster Hole (Rope Climb alternative 1),[54.2214],[-2.5164],55,25
+Lancaster Hole (Rope Climb alternative 2),[54.2214],[-2.5164],55,30
+Lancaster Hole (Chasm),[54.2214],[-2.5164],55,40
+Lancaster Hole (Craptrap),[54.2214],[-2.5164],55,40
+Langcliffe & Oddmire Pot (Langcliffe),[54.1355],[-2.0080],35
+Langcliffe & Oddmire Pot (Oddmire),[54.1381],[-2.0111],30
+Large Pot (Red Herring),[54.1866],[-2.4883],25,50,50,30,15,20,5
+Large Pot (Red Herring - Flake Aven),[54.1866],[-2.4883],25,50,50,40,15,20,5
+Large Pot (Colossus),[54.1866],[-2.4883],25,50,5,5,50
+Link Pot to The Mistral,[54.2178],[-2.5099],8,20
+Little Hull Pot,[54.1652],[-2.2745],45,60,15,25
+Long Drop Cave,[54.2073],[-2.5078],15,12,55
+Long Kin East (Cave),[54.1515],[-2.3657],40,50,35
+Long Kin East (Pot),[54.1515],[-2.3657],10,40,50,35
+Long Kin West,[54.1469],[-2.5132],45,55,15,70
+Lost Johns (Centipede),[54.2024],[-2.5062],10,60,30,30,45,30
+Lost Johns (Dome),[54.2024],[-2.5062],10,10,38,25,15,30,45,30
+Lost Johns (Sink via Monastery),[54.2024],[-2.5062],10,10,50,15,50
+Lost Johns (Sink via Dome),[54.2024],[-2.5062],10,10,38,30,15,20
+Magnetometer Pot,[54.1212],[-2.2374],15,25
+Marble Sink,[54.1520],[-2.3700],12,13,12,19,13
+Marble Steps Pot (Main via Gully),[54.1883],[-2.4918],20,60,40
+Marble Steps Pot (Main via Sidewinder Wet),[54.1883],[-2.4918],20,45,60
+Marble Steps Pot (Main via Sidewinder Dry),[54.1883],[-2.4918],30,20,60
+Marble Steps Pot (Streamway via Gully & Intestines),[54.1883],[-2.4918],20,60,40,10,30,10,25,25
+Marble Steps Pot (Streamway via Gully & Ninety),[54.1883],[-2.4918],20,60,40,10,30,40,30
+Marilyn,[54.1473],[-2.3806],40,35,20,15,25
+Mayday Hole,[54.1478],[-2.4180],35,15,28,13,54,18
+Meregill Hole,[54.1767],[-2.3994],20,40,55,30,50,25
+Meregill Hole (Dry alternative),[54.1767],[-2.3994],25,30,55,30,50,25
+New Goyden Pot,[54.1745],[-1.8460],25,20
+New Rift Pot (Direct),[54.1868],[-2.4931],30,20,50
+New Rift Pot (Route 66),[54.1868],[-2.4931],30,20,45
+Newby Moss Cave,[54.1459],[-2.3949],35,25,10,17,20,12
+Nick Pot (Thornber's Entrance),[54.1590],[-2.3535],35,25,68,35
+Notts Pot (Left Hand),[54.1949],[-2.5058],20,6,15,25,45,15,50,55,15
+Notts Pot (Twilight Zone),[54.1949],[-2.5058],20,6,15,55,25,15,50,55,15
+Notts Pot (Centre),[54.1949],[-2.5058],20,6,15,40,55,50,55,15
+Notts Pot (Adamsons),[54.1949],[-2.5058],20,6,15,15,20,25,55,50,55,15
+Out Sleets Beck Pot,[54.1590],[-2.2036],10,15,28,30
+Pasture Gill Pot,[54.2102],[-2.1462],25,25,50,5,20
+Penyghent Pot,[54.1552],[-2.2633],12,12,55,15,17,10,15,17,12
+Penyghent Pot (with extensions),[54.1552],[-2.2633],12,12,55,15,17,10,15,17,12,17,15
+Pillar Holes (No. 1),[54.1466],[-2.4104],50
+Pillar Holes (No. 2),[54.1466],[-2.4104],20,30,50
+Pillar Holes (No. 3),[54.1466],[-2.4104],20,30,50
+Pippikin Pot,[54.2145],[-2.5124],17,5,20,12,10,5,15
+Pool Sink,[54.2212],[-2.4966],25,20,35,30
+Pool Sink (Pull through),[54.2212],[-2.4966],50
+Rana Hole (Assynt),[58.1059],[-4.9394],45,23,
+Rat Hole,[54.1501],[-2.3833],45,60,45
+Roaring Hole (to Sunset Blvd),[54.1823],[-2.3962],30,15,15,15,10
+Rowten Pot (Direct via Big Gully),[54.1979],[-2.4642],55,30,30,65,35,35
+Rowten Pot (Direct via Eyehole),[54.1979],[-2.4642],45,65,35,35
+Rowten Pot (Flyover via Big Gully),[54.1979],[-2.4642],55,30,30,50,40,40
+Rowten Pot (Flyover via Eyehole),[54.1979],[-2.4642],45,30,50,40,40
+Rumbling Hole,[54.2067],[-2.5057],45,30,40,30,30
+Scanty Lardos Pot,[54.1697],[-2.1889],30,40,20
+Sell Gill Holes (Dry),[54.1646],[-2.2897],20,30,30
+Sell Gill Holes (Wet/Goblin),[54.1646],[-2.2897],10,45,45
+Short Drop Cave (To Sump),[54.2050],[-2.5072],20,50
+Shuttleworth Pot,[54.2126],[-2.5196],20,60
+Simpson's Pot,[54.1958],[-2.4672],20,10,10,10,15,10,15,20,15,15,30,15
+Simpson's Pot (Swinsto Great Aven),[54.1958],[-2.4672],20,10,10,10,15,10,15,20,15,50
+Stream Passage Pot,[54.1480],[-2.3868],25,45,50,40
+Sunset Hole,[54.1783],[-2.3965],10,15,15,35
+Swinsto,[54.1926],[-2.4708],15,10,25,25,60,35,15
+Swinsto (Pull through),[54.1926],[-2.4708],45,15
+Tatham Wife Hole,[54.1675],[-2.4123],10,45,30,20
+Top Sink,[54.2247],[-2.4915],35,15
+Uamh nan Claig-ionn,[56.5108],[-5.2899],5,15,25,12,16
+Valley Entrance (Toyland),[54.1916],[-2.4627],18,10,12,16
+Vesper Pot,[54.1935],[-2.4431],15,45,45,55
+Washfold Pot,[54.1842],[-2.3472],48,5,34
+Yordas Pot (Top to Cave),[54.2071],[-2.4545],30,40
+Yordas Pot (Middle to Cave),[54.2071],[-2.4545],10,10,40
 
 # Not for the Faint-Hearted (Mike Cooper)
-Bye George Pot,10,30,10,40
-Bye George Pot (Birthday Aven pull through),10,30,30
-Dale Head Pot,25,35,12,50,10,17
-Dale Head Pot (Direct Pitch),25,35,12,45,10,17
-Dale Head Pot (Mud Rift alternative),25,35,12,50,30,20,20,17
-Echo Pot,15,10,50,40,35
-Grey Wife Hole,15,17
-Hammer Pot,12,30,12,20
+Bye George Pot,[54.2113],[-2.5058],10,30,10,40
+Bye George Pot (Birthday Aven pull through),[54.2113],[-2.5058],10,30,30
+Dale Head Pot,[54.1416],[-2.2451],25,35,12,50,10,17
+Dale Head Pot (Direct Pitch),[54.1416],[-2.2451],25,35,12,45,10,17
+Dale Head Pot (Mud Rift alternative),[54.1416],[-2.2451],25,35,12,50,30,20,20,17
+Echo Pot,[54.1283],[-2.2295],15,10,50,40,35
+Grey Wife Hole,[54.1450],[-2.3980],15,17
+Hammer Pot,[54.1229],[-2.2279],12,30,12,20
 Hangman's Hole,15,12,15,25
-Jean Pot,15,10,10,15,12,12,15,12
-Knacker Trapper Hole,5,10,10,12,10,10
-Langstroth Pot,20,17,10,10,10,17
-Langstroth Pot (Pull through),30
-P5,10,10,12,10
-Peterson Pot,10,5,12,10,12
-Quaking Pot,12,20,35,15,10,12,17,12,10,20,10
-Rowten Pot (Pull through),100,15
-Strans Gill Pot,17,10,65,12,35
+Jean Pot,[54.1480],[-2.3749],15,10,10,15,12,12,15,12
+Knacker Trapper Hole,[54.1809],[-2.3922],5,10,10,12,10,10
+Langstroth Pot,[54.2057],[-2.1607],20,17,10,10,10,17
+Langstroth Pot (Pull through),[54.2057],[-2.1607],30
+P5,[54.1492],[-2.3715],10,10,12,10
+Peterson Pot,[54.2137],[-2.5121],10,5,12,10,12
+Quaking Pot,[54.1612],[-2.4144],12,20,35,15,10,12,17,12,10,20,10
+Rowten Pot (Pull through),[54.1979],[-2.4642],100,15
+Strans Gill Pot,[54.2049],[-2.1303],17,10,65,12,35
 Swan Dike Pot,12,5,15,12,10
-Trapdoor Pot,10,20,10,20,5,25,50
-Yockenthwaite Pot,20,10,10,20
+Trapdoor Pot,[54.1496],[-2.4191],10,20,10,20,5,25,50
+Yockenthwaite Pot,[54.2121],[-2.1532],20,10,10,20
 
 # Northern Caves - East Kingsdale
-Catamite Hole,15,10,15,10,10
-Crescent Pot,35,15,25,25,5,20
-Floyd's Entrance,5,20
-King Pot,10,15,10,17,15,20,12,30,5
-Lord Tot's Hole,15,15
-Spectacle Pot,10,10,50,20,15
+Catamite Hole,[54.1873],[-2.4535],15,10,15,10,10
+Crescent Pot,[54.1843],[-2.4535],35,15,25,25,5,20
+Floyd's Entrance,[54.2005],[-2.4410],5,20
+King Pot,[54.1933],[-2.4475],10,15,10,17,15,20,12,30,5
+Lord Tot's Hole,[54.1898],[-2.4514],15,15
+Spectacle Pot,[54.1955],[-2.4417],10,10,50,20,15
 
 # Northern Caves - West Kingsdale
-Craftman's Pot,20,40,15
-Slanting Cave,35
-Turbary Pot,50
-Valley Entrance (Master Cave),15
+Craftman's Pot,[54.2046],[-2.4579],20,40,15
+Slanting Cave,[54.2083],[-2.4535],35
+Turbary Pot,[54.1924],[-2.4689],50
+Valley Entrance (Master Cave),[54.1916],[-2.4627],15
 
 # Northern Caves - Marble Steps
-Forget-me-Pot,40,30
-Kail Pot,15
-Low Douk,5
-Marble Steps (Main via Lost Marbles Pot),12,12,35
-The Mohole,30,60,10
-New Rift Pot (Cross Patch Inlet),20,20,45,10,12
+Forget-me-Pot,[54.1877],[-2.4840],40,30
+Kail Pot,[54.1868],[-2.4803],15
+Low Douk,[54.1859],[-2.4965],5
+Marble Steps (Main via Lost Marbles Pot),[54.1883],[-2.4918],12,12,35
+The Mohole,[54.1876],[-2.4828],30,60,10
+New Rift Pot (Cross Patch Inlet),[54.1868],[-2.4931],20,20,45,10,12

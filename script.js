@@ -52,6 +52,17 @@ function handleTabs (event) {
 let ropeInput = document.getElementsByClassName('rope')[0];
 ropeInput.onkeydown = handleTabs;
 
+// Init leaflet map
+function showMap() {
+  let map = L.map('map').setView([54.17, -2.19], 10);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+  }).addTo(map);
+  return map;
+}
+let caveMap = showMap();
+
 // Handle reset button
 let tableData = document.getElementById('data');
 let resetButton = document.getElementById('reset');
@@ -66,6 +77,7 @@ resetButton.onclick = function reset() {
   };
   // remove results data
   tableData.innerHTML = '';
+  clearMap();
   // Uncheck join
   document.getElementById('join').checked = false;
 };
@@ -83,6 +95,7 @@ goButton.onclick = function calculate() {
 
   // Reset output
   tableData.innerHTML = '';
+  clearMap();
 
   // Get trip lengths
   fetch('./pitchlengths.txt').then(response => response.text()).then(function (trips) {
@@ -93,21 +106,25 @@ goButton.onclick = function calculate() {
     for (let [_, trip] of Object.entries(trips.sort())) {
       trip = trip.split(',');
       // Trips can't have more pitches than we have ropes
-      if (trip.length - 1 > ropes.length) {
+      if (trip.filter(el => !el.includes('[')).length - 1 > ropes.length) {
         continue;
       };
       // Pitches must be possible
-      pitches = trip.slice(1).map(x => parseInt(x.trim())).sort((a, b) => a < b);
+      pitches = trip.slice(1).filter(el => !el.includes('[')).map(x => parseInt(x.trim())).sort((a, b) => a < b);
       if (pitches.every((pitch, i) => { return pitch <= ropes[i] })) {
-        let row = `<tr><td>${trip[0]}</td><td>${trip.slice(1).join(', ')}</td></tr>`;
+        let td_el = (trip[1].includes('[') ? `<a href="https://www.openstreetmap.org/?mlat=${trip[1].slice(1,-1)}&mlon=${trip[2].slice(1,-1)}" target="_blank" title="View in Open Street Map">${trip[0]}</a>` : trip[0]);
+        let row = `<tr><td>${td_el}</td><td>${trip.slice(1).filter(el => !el.includes('[')).join(', ')}</td></tr>`;
         tableData.insertAdjacentHTML('beforeend', row);
+        displayOnMap(trip, false);
         continue;
       };
       if (join_ropes) {
         for (let [_, _join] of Object.entries(join_combs(ropes))) {
           if (pitches.every((pitch, i) => { return pitch <= _join[i] })) {
-            let row = `<tr class="join"><td>${trip[0]}</td><td>${trip.slice(1).join(', ')}</td></tr>`;
+            let td_el = (trip[1].includes('[') ? `<a href="https://www.openstreetmap.org/?mlat=${trip[1].slice(1,-1)}&mlon=${trip[2].slice(1,-1)}" target="_blank" title="View in Open Street Map">${trip[0]}</a>` : trip[0]);
+            let row = `<tr class="join"><td>${td_el}</td><td>${trip.slice(1).filter(el => !el.includes('[')).join(', ')}</td></tr>`;
             tableData.insertAdjacentHTML('beforeend', row);
+            displayOnMap(trip, true);
             break;
           };
         };
@@ -138,4 +155,30 @@ function join_combs(ropes) {
   });
   joins = Object.values(joins.reduce((p, c) => (p[JSON.stringify(c)] = c, p), {}));
   return (joins);
+}
+
+// Display on map
+let markers = [];
+let lost_count = document.getElementById('lost_count');
+let lost_message = document.getElementById('lost_message');
+function displayOnMap(trip, join) {
+  if (trip[1].includes('[')) {
+    let marker = L.marker(trip.slice(1,3).map(el => parseFloat(el.slice(1,-1)))).addTo(caveMap);
+    if (!join) {
+      marker._icon.classList.add('black');
+    }
+    marker.bindPopup(`<a href="https://www.openstreetmap.org/?mlat=${trip[1].slice(1,-1)}&mlon=${trip[2].slice(1,-1)}" target="_blank" title="View in Open Street Map">${trip[0]}</a>`);
+    markers.push(marker);
+  } else {
+    lost_count.textContent = parseInt(lost_count.textContent)+1;
+    lost_message.style.display = 'block';
+  }
+}
+
+// Clear map of existing markers
+function clearMap() {
+  markers.forEach(marker => caveMap.removeLayer(marker));
+  markers = [];
+  lost_count.textContent = '0';
+  lost_message.style.display = 'none';
 }
