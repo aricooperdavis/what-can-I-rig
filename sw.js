@@ -6,7 +6,8 @@ let cacheableContent = [
   '/what-can-I-rig/script.js',
   '/what-can-I-rig/sw.js',
   '/what-can-I-rig/css/style.css',
-  '/what-can-I-rig/pitchlengths.txt',
+  '/what-can-I-rig/pitchlengths/yorkshire.txt',
+  '/what-can-I-rig/pitchlengths/derbyshire.txt',
 ];
 
 // On install cache required assets

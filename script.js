@@ -92,13 +92,14 @@ goButton.onclick = function calculate() {
   };
   ropes = ropes.map(el => parseInt(el)).filter(el => el).sort((a, b) => a < b);
   let join_ropes = document.getElementById('join').checked;
+  let region = document.getElementById('region').value;
 
   // Reset output
   tableData.innerHTML = '';
   clearMap();
 
   // Get trip lengths
-  fetch('./pitchlengths.txt').then(response => response.text()).then(function (trips) {
+  fetch(`./pitchlengths/${region}.txt`).then(response => response.text()).then(function (trips) {
     // Parse and sort pitch lengths
     trips = trips.split('\n').filter(
       line => !(line.startsWith('#') | line.length < 3)
@@ -130,6 +131,8 @@ goButton.onclick = function calculate() {
         };
       };
     };
+    // Fit map to markers
+    fitBounds();
   });
 };
 
@@ -181,4 +184,11 @@ function clearMap() {
   markers = [];
   lost_count.textContent = '0';
   lost_message.style.display = 'none';
+}
+
+// Move map to show all markers
+let group = null;
+function fitBounds() {
+  group = new L.featureGroup(markers);
+  caveMap.flyToBounds(group.getBounds().pad(0.1));
 }

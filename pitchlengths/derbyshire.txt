@@ -1,0 +1,28 @@
+# Rope lengths required for trips in Derbyshire.
+# Contributors: Jenny Potts
+# Data sources shown before each data block
+
+# CCPC Peak District Rigging Guide. https://www.ccpc.org.uk/rigging.html
+Bagshawe Cavern,[53.3246],[-1.7438],17
+Long Rake Mine,[53.3241],[-1.772],48,75,18,24,25,10,15
+Eldon Hole (North Gulley),[53.3249],[-1.8271],40,19,22
+Eldon Hole (West Wall),[53.3249],[-1.8271],16,25,21
+Eldon Hole (East Wall),[53.3249],[-1.8271],32,27
+Eldon Hole (South Gulley),[53.3249],[-1.8271],36,27
+Eldon Hole (North Gulley and Miller's Chamber),[53.3249],[-1.8271],40,19,22,55
+Eldon Hole (West Wall and Miller's Chamber),[53.3249],[-1.8271],16,25,21,55
+Eldon Hole (East Wall and Miller's Chamber),[53.3249],[-1.8271],32,27,55
+Eldon Hole (South Gulley and Miller's Chamber),[53.3249],[-1.8271],36,27,55
+Giant's Hole (Main route to East Canal),[53.3409],[-1.8221],15,16,7,21,9,8
+Giant's Hole (Basecamp Chamber pull down),[53.3409],[-1.8221],20
+Giant's Hole (Boss Aven pull down),[53.3409],[-1.8221],20
+Giant's Hole (Pull through from the Upper Series to Crabwalk),[53.3409],[-1.8221],15,40
+Giant's Hole (Carnival Aven,[53.3409],[-1.8221],15,16,7,16
+Giant's Hole (Garland's Pot to Chert Hall),[53.3409],[-1.8221],50
+Giant's Hole (Upper West Passage),[53.3409],[-1.8221],20
+James Hall Over Engine Mine (JH) (Original Leviathan route),[53.3347],[-1.7987],60,48,50,35,35
+James Hall Over Engine Mine (JH) (Alternative Leviathan route),[53.3347],[-1.7987],60,48,40,35,35
+Maskhill Mine (To Pool Chamber, via Waterfall Chamber),[53.3363],[-1.8176],65,60,38,47,40,5
+Maskhill Mine (To Pool Chamber, via Oxlonw West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18,5
+Maskhill Mine (To Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18
+ 
