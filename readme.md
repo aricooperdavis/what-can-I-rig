@@ -3,6 +3,24 @@ Enter the ropes you have and find out what trips you can go on (in the Yorkshire
 
 Find it at: [aricooperdavis.github.io/what-can-I-rig](https://aricooperdavis.github.io/what-can-I-rig/)
 
+### URL Parameters
+<!--
+// Calculate number of trips per region using:
+fetch(`./pitchlengths/${region}.txt`).then(response => response.text()).then(function (trips) {
+    // Parse and sort pitch lengths
+    trips = trips.split('\n').filter(
+      line => !(line.startsWith('#') | line.length < 3)
+    );
+    console.log(trips);
+});
+-->
+You can preset the region of interest by passing a `region` URL parameter, e.g. `https://aricooperdavis.github.io/what-can-I-rig/?region=derbyshire`. Currently available regions are:
+
+| Region | Trips |
+| :- | :- |
+| Yorkshire | 183 |
+| Derbyshire | 22 |
+
 ### Data Sources
 This data is not necessarily accurate, nor have I asked for permission to use it. So far it has been sourced from:
 

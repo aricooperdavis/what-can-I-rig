@@ -21,6 +21,16 @@ window.addEventListener("beforeinstallprompt", (e) => {
   });
 });
 
+// Parse URL parameters
+let regionSel = document.getElementById('region');
+let region = new URLSearchParams(window.location.search).get('region').toLowerCase();
+function updateRegion(reg) {
+  region = ['yorkshire','derbyshire'].filter(r => r == reg)[0] ?? 'yorkshire';
+  regionSel.value = region;
+}
+updateRegion(region);
+regionSel.addEventListener('change', event => updateRegion(event.target.value));
+
 // Remove rope input
 function removeRope(event) {
   event.target.parentNode.remove();
@@ -92,7 +102,6 @@ goButton.onclick = function calculate() {
   };
   ropes = ropes.map(el => parseInt(el)).filter(el => el).sort((a, b) => a < b);
   let join_ropes = document.getElementById('join').checked;
-  let region = document.getElementById('region').value;
 
   // Reset output
   tableData.innerHTML = '';
@@ -189,6 +198,8 @@ function clearMap() {
 // Move map to show all markers
 let group = null;
 function fitBounds() {
-  group = new L.featureGroup(markers);
-  caveMap.flyToBounds(group.getBounds().pad(0.1));
+  if ( markers.length > 0 ) {
+    group = new L.featureGroup(markers);
+    caveMap.flyToBounds(group.getBounds().pad(0.1), );
+  }
 }
