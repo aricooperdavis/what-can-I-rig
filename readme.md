@@ -18,8 +18,9 @@ You can preset the region of interest by passing a `region` URL parameter, e.g. 
 
 | Region | Trips |
 | :- | :- |
-| Yorkshire | 183 |
 | Derbyshire | 22 |
+| Scotland | 3 |
+| Yorkshire (*default*)| 181 |
 
 ### Data Sources
 This data is not necessarily accurate, nor have I asked for permission to use it. So far it has been sourced from:

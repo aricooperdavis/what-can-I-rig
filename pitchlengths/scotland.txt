@@ -1,0 +1,8 @@
+# Rope lengths required for trips in Scotland.
+# Contributors: Ari Cooper-Davis, John Gardner, Sam Allshorn
+# Data sources shown before each data block
+
+# CNCC http://cncc.org.uk/
+Rana Hole (Assynt),[58.1059],[-4.9394],45,23
+Smoo Cave (bridge abseil),[58.5631],[-4.7196],25
+Uamh nan Claig-ionn,[56.5108],[-5.2899],5,15,25,12,16

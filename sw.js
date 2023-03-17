@@ -8,6 +8,7 @@ let cacheableContent = [
   '/what-can-I-rig/css/style.css',
   '/what-can-I-rig/pitchlengths/yorkshire.txt',
   '/what-can-I-rig/pitchlengths/derbyshire.txt',
+  '/what-can-I-rig/pitchlengths/scotland.txt',
 ];
 
 // On install cache required assets
