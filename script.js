@@ -23,9 +23,9 @@ window.addEventListener("beforeinstallprompt", (e) => {
 
 // Parse URL parameters
 let regionSel = document.getElementById('region');
-let region = new URLSearchParams(window.location.search).get('region').toLowerCase();
+let region = new URLSearchParams(window.location.search).get('region') ?? '';
 function updateRegion(reg) {
-  region = ['yorkshire','derbyshire'].filter(r => r == reg)[0] ?? 'yorkshire';
+  region = ['yorkshire','derbyshire'].filter(r => r == reg.toLowerCase())[0] ?? 'yorkshire';
   regionSel.value = region;
 }
 updateRegion(region);
