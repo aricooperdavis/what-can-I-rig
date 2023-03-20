@@ -123,7 +123,8 @@ goButton.onclick = function calculate() {
       pitches = trip.slice(1).filter(el => !el.includes('[')).map(x => parseInt(x.trim())).sort((a, b) => a < b);
       if (pitches.every((pitch, i) => { return pitch <= ropes[i] })) {
         let td_el = (trip[1].includes('[') ? `<a href="https://www.openstreetmap.org/?mlat=${trip[1].slice(1,-1)}&mlon=${trip[2].slice(1,-1)}" target="_blank" title="View in Open Street Map">${trip[0]}</a>` : trip[0]);
-        let row = `<tr><td>${td_el}</td><td>${trip.slice(1).filter(el => !el.includes('[')).join(', ')}</td></tr>`;
+		let td_rp = trip.slice(1).filter(el => !el.includes('[')).join(', ') || 'Ropes in-situ';
+        let row = `<tr><td>${td_el}</td><td>${td_rp}</td></tr>`;
         tableData.insertAdjacentHTML('beforeend', row);
         displayOnMap(trip, false);
         continue;
@@ -132,7 +133,8 @@ goButton.onclick = function calculate() {
         for (let [_, _join] of Object.entries(join_combs(ropes))) {
           if (pitches.every((pitch, i) => { return pitch <= _join[i] })) {
             let td_el = (trip[1].includes('[') ? `<a href="https://www.openstreetmap.org/?mlat=${trip[1].slice(1,-1)}&mlon=${trip[2].slice(1,-1)}" target="_blank" title="View in Open Street Map">${trip[0]}</a>` : trip[0]);
-            let row = `<tr class="join"><td>${td_el}</td><td>${trip.slice(1).filter(el => !el.includes('[')).join(', ')}</td></tr>`;
+			let td_rp = trip.slice(1).filter(el => !el.includes('[')).join(', ') || 'Ropes in-situ';
+            let row = `<tr class="join"><td>${td_el}</td><td>${td_rp}</td></tr>`;
             tableData.insertAdjacentHTML('beforeend', row);
             displayOnMap(trip, true);
             break;

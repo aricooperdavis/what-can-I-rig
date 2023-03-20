@@ -13,16 +13,98 @@ Eldon Hole (North Gulley and Miller's Chamber),[53.3249],[-1.8271],40,19,22,55
 Eldon Hole (West Wall and Miller's Chamber),[53.3249],[-1.8271],16,25,21,55
 Eldon Hole (East Wall and Miller's Chamber),[53.3249],[-1.8271],32,27,55
 Eldon Hole (South Gulley and Miller's Chamber),[53.3249],[-1.8271],36,27,55
-Giant's Hole (Main route to East Canal),[53.3409],[-1.8221],15,16,7,21,9,8
+Giant's Hole (Main route to East Canal, including the round trip and climbing between the Upper Series and Crabwalk),[53.3409],[-1.8221],15,16,7,21,9,8
 Giant's Hole (Basecamp Chamber pull down),[53.3409],[-1.8221],20
 Giant's Hole (Boss Aven pull down),[53.3409],[-1.8221],20
-Giant's Hole (Pull through from the Upper Series to Crabwalk),[53.3409],[-1.8221],15,40
+Giant's Hole (Main Route to East Canal, including the round trip and a pull through from the Upper Series to Crabwalk),[53.3409],[-1.8221],15,40
 Giant's Hole (Carnival Aven,[53.3409],[-1.8221],15,16,7,16
-Giant's Hole (Garland's Pot to Chert Hall),[53.3409],[-1.8221],50
+Giant's Hole (High level route above Garland's Pot to Chert Hall),[53.3409],[-1.8221],50
 Giant's Hole (Upper West Passage),[53.3409],[-1.8221],20
 James Hall Over Engine Mine (JH) (Original Leviathan route),[53.3347],[-1.7987],60,48,50,35,35
 James Hall Over Engine Mine (JH) (Alternative Leviathan route),[53.3347],[-1.7987],60,48,40,35,35
 Maskhill Mine (To Pool Chamber, via Waterfall Chamber),[53.3363],[-1.8176],65,60,38,47,40,5
-Maskhill Mine (To Pool Chamber, via Oxlonw West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18,5
+Maskhill Mine (To Pool Chamber, via Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18,5
 Maskhill Mine (To Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18
- 
+Nettle Pot (Base of Elizabeth Shaft),[53.3347],[-1.8134],28,35,16,54
+Nettle Pot (Elizabeth Shaft and shaft below),[53.3347],[-1.8134],28,35,16,54,17
+Nettle Pot (To Derbyshire Hall),[53.3347],[-1.8134],28,35,20,3,15,25
+Nettle Pot (Crumble Pot and Beza Pot),[53.3347],[-1.8134],28,35,16,4,40,24,24,20,18
+Odin Mine (To Cartgate Chamber),[53.3479],[-1.8018],15,15,8,25,15,25,15,7
+Odin Mine (To Bell Chamber and pitch below),[53.3479],[-1.8018],15,15,8,25,15,25,15,7,20,20
+Oxlow Cavern (To West Chamber (Maskhill Connection)),[53.3364],[-1.8151],38,24,31,50,30
+Oxlow Cavern (To East Chamber),[53.3364],[-1.8151],38,24,31
+Oxlow Cavern (To Pool Chamber (the lowest point)),[53.3364],[-1.8151],38,24,31,50,30,18,5
+Oxlow Cavern (To Pilgrim's Way and connection to Giant's Hole),[53.3364],[-1.8151],38,24,31,50,30,20
+Oxlow Cavern (To Pilgrim's Way and North Pitch),[53.3364],[-1.8151],38,24,31,50,30,20,12
+Oxlow Cavern - Maskhill Mine exchange trip,[53.3364],[-1.8151],38,24,31,50,30,65,60,38,47,40,18
+P8 (With the water. Idiot's Leap, First Waterfall Pitch and True Second Pitch),[53.3329],[-1.8395],5,16,13
+P8 (Idiot's Leap, Traverse to Iron Ladder Pitch and Gour Passage),[53.3329],[-1.8395],5,21,25,10
+P8 (Idiot's Leap, Traverse to Mud Hall),[53.3329],[-1.8395],5,21,25,12
+P8 (High Level all the way to Mud Hall),[53.3329],[-1.8395],25,25,25,12
+Peak/Speedwell Cliff Cavern,[53.3399],[-1.7782]
+Peak/Speedwell Far Sump Extensions (Salmon's Cavern),[53.3399],[-1.7782],10
+Peak/Speedwell Far Sump Extensions (Calcite Aven, Fingernail Chamber, Balcombe's Way and Ride of the Valkyries),[53.3399],[-1.7782],20,10,28,80
+Peak/Speedwell Far Sump Extensions (Calcite Aven, Total Perspective Vortex, Balcombe's Way and Ride of the Valkyries),[53.3399],[-1.7782],55,10,28,80
+Peak/Speedwell George Cooper's Aven (via Victoria Aven),[53.3399],[-1.7782],42,30
+Peak/Speedwell NCC Shafts,[53.3399],[-1.7782],55,15
+Peak/Speedwell Victoria Aven,[53.3399],[-1.7782]
+Peak/Speedwell White River Series (entry and exit via Block Hall),[53.3399],[-1.7782]
+Peak/Speedwell White River Series (entry via Block Hall, exit via rigging Fever, Terminator and Ventilator pitches),[53.3399],[-1.7782],10,25,25
+Peak/Speedwell White River Series (entry via Block Hall, exit via pull through of Fever, Terminator and Ventilator pitches),[53.3399],[-1.7782],55
+Peak/Speedwell White River Series (Moosetrap, entry and exit via Block Hall),[53.3399],[-1.7782],18,35,22,12,10
+Peak/Speedwell White River Series(Nameless Pitch to Miner's Chamber, entry and exit via Block Hall),[53.3399],[-1.7782],22,10,35
+Pindale End Mine (Upper Shaft),[53.3389],[-1.7602],30,18
+Pindale End Mine (Lower Shaft),[53.3391],[-1.7592],18,10
+Rowter Hole (to Icecream Trail),[53.3377],[-1.7997],40,33,15,5,5,50,35
+Rowter Hole (to Crystal Orechasm),[53.3377],[-1.7997],40,33,15,5,5,50,35,5,4,5,30,50
+Rowter Hole (to Hourglass Aven),[53.3377],[-1.7997],40,33,15,5,5,50,35,5,4,5,30
+Rowter Hole (to stream sink),[53.3377],[-1.7997],40,33,30
+Snelslow Swallet (Main Entrance to Main Chamber),[53.3375],[-1.8326],18,40
+Snelslow Swallet (Main Entrance to lowest point),[53.3375],[-1.8326],18,40,35
+Suicide Cave,[53.3411],[-1.7949],15,20
+Titan (to the bottom),[53.3333],[-1.7932],50,80,65
+Titan (to Titan Streamway),[53.3333],[-1.7932],50,80
+Winnats Head Cave(upstream pitches,[53.3421],[-1.8041]
+Winnats Head Cave(downstream pitches,[53.3421],[-1.8041],27,23,24
+Clatterway Levels,[53.1165],[-1.5799],15,10
+Deep Shaft (AKA Day Shaft),[53.1329],[-1.565],85
+Gentlewoman's Pipe Climbing Shaft,[53.1281],[-1.571],44
+Devonshire Cavern (internal training pitches),[53.122],[-1.5681],17
+Devonshire Cavern (Upper Shaft),[53.122],[-1.5681],21
+Devonshire Cavern (Kirkland Shaft),[53.122],[-1.5681],20
+Snake Mine (round trip),[53.0961],[-1.6105],11,26,40,10,85
+Snake Mine (Coe to 80' level),[53.0961],[-1.6105],11,26
+Snake Mine (Coe to 230' level via 140' Shaft (no connection to climbing shaft),[53.0961],[-1.6105],11,26,40,10
+Snake Mine (Coe to 230' level via Climbing Shaft (no connection to 140' shaft)),[53.0961],[-1.6105],11,26,50
+Snake Mine (Coe to Lower Shaft, via Chain Ladder Shaft),[53.0961],[-1.6105],11,26,40,45
+Snake Mine (Main Shaft to 230' level (connection to 140' shaft, not to climbing shaft)),[53.0961],[-1.6105],85
+Snake Mine (Main Shaft to 250' level,[53.0961],[-1.6105],85
+Snake Mine (Engine Shaft to 230' level via Climbing Shaft (no connection to 140' shaft)),[53.0961],[-1.6105],53,50
+Snake Mine (Engine Shaft to 230' level via 140' Shaft (no connection to climbing shaft)),[53.0961],[-1.6105],53,40,10
+Snake Mine (Engine Shaft to Lower Shaft, via Chain Ladder Shaft),[53.0961],[-1.6105],53,40,45
+Robin's Shaft Mine,[53.0721],[-1.7992],110
+Whalf Mine Engine Shaft (direct),[53.2025],[-1.7845],65
+Whalf MineEngine Shaft (alternative),[53.2025],[-1.7845],50,30
+Whalf Mine Climbing Shaft,[53.2025],[-1.7845],45,10
+Hillocks Mine,[53.202],[-1.7841]11,32
+Hillocks Mine to Knotlow Cavern (via Mecccano Passage),[53.202],[-1.7841]11,32,23
+Knotlow Cavern (Climbing Shaft to Waterfall Chamber),[53.2034],[-1.7861],24,20,23
+Knotlow Cavern (Climbing Shaft to Waterfall Chamber via Chain Passage),[53.2034],[-1.7861],24,20,9,36
+Knotlow Cavern (Chapel Dale Engine Shaft, direct),[53.2036],[-1.7863],70
+Knotlow Cavern (Chapel Dale Engine Shaft, with rebelay at Chain Passage),[53.2036],[-1.7863],38,36
+Lathkill Head Cave, Garden Path Entrance,[53.1905],[-1.7543],20,40
+Lathkill Head Cave, Top Entrance,[53.1905],[-1.7512],33
+Water Icicle Close Cavern,[53.1781],[-1.7605],34
+Carlswark Cavern, Eyam Dale Shaft,[53.2802],[-1.6739],23
+Eyam Dale House Cave,[53.2829],[-1.6721],25,10
+Hungerhill Swallet,[53.2891],[-1.6871],50
+Lay-by Pot,[53.2806],[-1.6962],24
+Merlin's Mine (via Lower Adit Entrance),[53.2797],[-1.6749],12
+Merlin's Mine (via Upper Entrance),[53.2798],[-1.6748],12,12
+Middleton Dale Mine, Hope Shaft to Level 7,[53.2795],[-1.6761],35,15
+Nickergrove Mine, Adit Entrance to Main Level,[53.2802],[-1.6783],12
+Nickergrove Mine, Pallet Shaft to Main Level,[53.2805],[-1.678],16,12
+Nickergrove Mine, Adit Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2802],[-1.6783],10,10,10,12
+Nickergrove Mine, Hillside Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2806],[-1.6783]20,10,12
+Nickergrove Mine, Adit Entrance to Clay Chamber,[53.2797],[-1.6749],18
+Putwell Hill Mine,[53.2416],[-1.7355],15,35
