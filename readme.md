@@ -18,7 +18,7 @@ You can preset the region of interest by passing a `region` URL parameter, e.g. 
 
 | Region | Trips |
 | :- | :- |
-| Derbyshire | 22 |
+| Derbyshire | 105 |
 | Scotland | 3 |
 | Yorkshire (*default*)| 181 |
 
