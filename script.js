@@ -1,3 +1,10 @@
+// Vars
+let views = {
+  'derbyshire': {'coords': [53.2,-1.78], 'zoom': 9},
+  'scotland': {'coords': [57.9,-5.17], 'zoom': 7},
+  'yorkshire': {'coords': [54.17,-2.19], 'zoom': 10},
+};
+
 // Register service worker for PWA
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register('/what-can-I-rig/sw.js', {scope: '/what-can-I-rig/'});
@@ -20,16 +27,6 @@ window.addEventListener("beforeinstallprompt", (e) => {
     });
   });
 });
-
-// Parse URL parameters
-let regionSel = document.getElementById('region');
-let region = new URLSearchParams(window.location.search).get('region') ?? '';
-function updateRegion(reg) {
-  region = ['yorkshire','derbyshire','scotland'].filter(r => r == reg.toLowerCase())[0] ?? 'yorkshire';
-  regionSel.value = region;
-}
-updateRegion(region);
-regionSel.addEventListener('change', event => updateRegion(event.target.value));
 
 // Remove rope input
 function removeRope(event) {
@@ -72,6 +69,17 @@ function showMap() {
   return map;
 }
 let caveMap = showMap();
+
+// Handle region selection
+let regionSel = document.getElementById('region');
+let region = new URLSearchParams(window.location.search).get('region') ?? '';
+function updateRegion(reg) {
+  region = ['yorkshire','derbyshire','scotland'].filter(r => r == reg.toLowerCase())[0] ?? 'yorkshire';
+  regionSel.value = region;
+  caveMap.flyTo(views[region]['coords'], views[region]['zoom']);
+}
+updateRegion(region);
+regionSel.addEventListener('change', event => updateRegion(event.target.value));
 
 // Handle reset button
 let tableData = document.getElementById('data');
