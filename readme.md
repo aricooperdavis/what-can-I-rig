@@ -37,7 +37,7 @@ As far as I am aware the following contributors have collated this data:
 - Sam Allshorn
 - Ari Cooper-Davis
 - John Gardner
-- Jenny Potts
+- Jenny Drake
 
 ### Corrections
 Please feel free to [raise an issue](https://github.com/aricooperdavis/what-can-I-rig/issues) if you spot mistakes, or if you're familiar with Git then make the changes yourself and open a pull request.
