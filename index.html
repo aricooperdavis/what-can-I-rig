@@ -11,6 +11,9 @@
   <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
      integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
      crossorigin=""></script>
+  <script src="https://cdn.jsdelivr.net/gh/stuartlangridge/sorttable@384ec67d5feb64581dba6c64299ae772f0ac229a/sorttable/sorttable.js"
+     integrity="sha256-m0Q318Dx3ZC09C/iDKw+KwVPzPDo/YJFX9pmIuj76jE="
+	 crossorigin="anonymous"></script>
   <script src="./script.js" type="text/javascript" defer></script>
   <meta charset="utf-8">
   <meta name="description" content="Given the ropes you've got, what caving trips can you rig in the Yorkshire Dales?">
@@ -43,7 +46,7 @@
   <button type="button" id='go'>Go</button><button type="button" id='reset'>Reset</button>
   <h3>Results:</h3>
   <div id="results">
-    <table>
+    <table class="sortable">
       <thead>
         <tr>
           <th>Trip</th>
