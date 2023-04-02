@@ -1,5 +1,5 @@
 # Rope lengths required for trips in Derbyshire.
-# Contributors: Jenny Potts
+# Contributors: Jenny Drake
 # Data sources shown before each data block
 
 # CCPC Peak District Rigging Guide. https://www.ccpc.org.uk/rigging.html
@@ -23,6 +23,8 @@ Giant's Hole (High level route above Garland's Pot to Chert Hall),[53.3409],[-1.
 Giant's Hole (Upper West Passage),[53.3409],[-1.8221],20
 James Hall Over Engine Mine (JH) (Original Leviathan route),[53.3347],[-1.7987],60,48,50,35,35
 James Hall Over Engine Mine (JH) (Alternative Leviathan route),[53.3347],[-1.7987],60,48,40,35,35
+Longcliffe Mine (using long ropes),[53.3396],[-1.7906],38,35
+Longcliffe Mine (using short ropes),[53.3396],[-1.7906],12,13,3,10,22,14
 Maskhill Mine (To Pool Chamber via Waterfall Chamber),[53.3363],[-1.8176],65,60,38,47,40,5
 Maskhill Mine (To Pool Chamber via Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18,5
 Maskhill Mine (To Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18
