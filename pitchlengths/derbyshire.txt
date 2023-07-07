@@ -50,7 +50,7 @@ Peak/Speedwell Far Sump Extensions (Calcite Aven Fingernail Chamber Balcombe's W
 Peak/Speedwell Far Sump Extensions (Calcite Aven Total Perspective Vortex Balcombe's Way and Ride of the Valkyries),[53.3399],[-1.7782],55,10,28,80
 Peak/Speedwell Far Sump Extensions (Calcite Aven Total Perspective and Western Highway),[53.3399],[-1.7782]
 Peak/Speedwell George Cooper's Aven (via Victoria Aven),[53.3399],[-1.7782],42,30
-Peak/Speedwell NCC Shafts (to bottom),[53.3399],[-1.7782],55,15
+Peak/Speedwell NCC Shafts (to bottom),[53.3399],[-1.7782],70,15
 Peak/Speedwell NCC Shafts (to top),[53.3399],[-1.7782]
 Peak/Speedwell Victoria Aven,[53.3399],[-1.7782]
 Peak/Speedwell White River Series (entry and exit via Block Hall),[53.3399],[-1.7782]
