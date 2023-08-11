@@ -97,8 +97,8 @@ Knotlow Cavern (Climbing Shaft to Waterfall Chamber),[53.2034],[-1.7861],24,20,2
 Knotlow Cavern (Climbing Shaft to Waterfall Chamber via Chain Passage),[53.2034],[-1.7861],24,20,9,36
 Knotlow Cavern (Chapel Dale Engine Shaft direct),[53.2036],[-1.7863],70
 Knotlow Cavern (Chapel Dale Engine Shaft with rebelay at Chain Passage),[53.2036],[-1.7863],38,36
-Lathkill Head Cave. Garden Path Entrance,[53.1905],[-1.7543],20,40
-Lathkill Head Cave. Top Entrance,[53.1905],[-1.7512],33
+Lathkill Head Cave. Garden Path Entrance,[53.1905],[-1.7543],35,30
+Lathkill Head Cave. Top Entrance,[53.1905],[-1.7512],35
 Water Icicle Close Cavern,[53.1781],[-1.7605],34
 Carlswark Cavern. Eyam Dale Shaft,[53.2802],[-1.6739],23
 Eyam Dale House Cave,[53.2829],[-1.6721],25,10
