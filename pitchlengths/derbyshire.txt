@@ -23,8 +23,8 @@ Giant's Hole (High level route above Garland's Pot to Chert Hall),[53.3409],[-1.
 Giant's Hole (Upper West Passage),[53.3409],[-1.8221],18
 James Hall Over Engine Mine (JH) (Original Leviathan route),[53.3347],[-1.7987],60,48,50,35,35
 James Hall Over Engine Mine (JH) (Alternative Leviathan route),[53.3347],[-1.7987],60,48,40,35,35
-Longcliffe Mine (using long ropes),[53.3396],[-1.7906],38,35
-Longcliffe Mine (using short ropes),[53.3396],[-1.7906],12,13,3,10,22,14
+Longcliffe Mine (2018 Extensions),[53.3396],[-1.7906],38,35
+Longcliffe Mine (High Level Workings),[53.3396],[-1.7906],38,10,15
 Maskhill Mine (To Pool Chamber via Waterfall Chamber),[53.3363],[-1.8176],65,60,38,47,40,5
 Maskhill Mine (To Pool Chamber via Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18,5
 Maskhill Mine (To Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18
