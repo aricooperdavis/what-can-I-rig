@@ -18,6 +18,7 @@ Giant's Hole (Basecamp Chamber pull down),[53.3409],[-1.8221],20
 Giant's Hole (Boss Aven pull down),[53.3409],[-1.8221],20
 Giant's Hole (Main Route to Eating House including the round trip and a pull through from the Upper Series to Crabwalk),[53.3409],[-1.8221],15,40
 Giant's Hole (Main Route to Eating House including the round trip and a climb between the Upper Series and Crabwalk),[53.3409],[-1.8221],15
+Giant's Hole (Main Route to Eating House including the round trip and a climb between the Upper Series and Crabwalk. Extended pitch head traverse at Garland's Pot for novices),[53.3409],[-1.8221],20
 Giant's Hole (Carnival Aven),[53.3409],[-1.8221],15,16,7,16
 Giant's Hole (High level route above Garland's Pot to Chert Hall),[53.3409],[-1.8221],50
 Giant's Hole (Upper West Passage),[53.3409],[-1.8221],18
