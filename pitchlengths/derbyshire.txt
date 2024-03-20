@@ -56,8 +56,8 @@ Peak/Speedwell NCC Shafts (to bottom),[53.3399],[-1.7782],70,15
 Peak/Speedwell NCC Shafts (to top),[53.3399],[-1.7782]
 Peak/Speedwell Victoria Aven,[53.3399],[-1.7782]
 Peak/Speedwell White River Series (entry and exit via Block Hall),[53.3399],[-1.7782]
-Peak/Speedwell White River Series (entry via Block Hall. Exit via rigging Fever Terminator and Ventilator pitches),[53.3399],[-1.7782],10,25,25
-Peak/Speedwell White River Series (entry via Block Hall. Exit via pull through of Fever Terminator and Ventilator pitches),[53.3399],[-1.7782],55
+Peak/Speedwell White River Series (entry via Block Hall. Exit via pull through of Fever Terminator and Ventilator pitches. Maximum ropes ropes),[53.3399],[-1.7782],30,60,40
+Peak/Speedwell White River Series (entry via Block Hall. Exit via pull through of Fever Terminator and Ventilator pitches. Minimum ropes, no contingency.),[53.3399],[-1.7782],60
 Peak/Speedwell White River Series (Moosetrap. Entry and exit via Block Hall),[53.3399],[-1.7782],18,35,22,12,10
 Peak/Speedwell White River Series(Nameless Pitch to Miner's Chamber. Entry and exit via Block Hall),[53.3399],[-1.7782],22,10,35
 Pindale End Mine (Upper Shaft),[53.3389],[-1.7602],30,18
