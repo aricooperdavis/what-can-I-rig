@@ -79,16 +79,16 @@ Gentlewoman's Pipe Climbing Shaft,[53.1281],[-1.571],44
 Devonshire Cavern (internal training pitches),[53.122],[-1.5681],17
 Devonshire Cavern (Upper Shaft),[53.122],[-1.5681],21
 Devonshire Cavern (Kirkland Shaft),[53.122],[-1.5681],20
-Snake Mine (round trip),[53.0961],[-1.6105],11,26,40,10,85
+Snake Mine (round trip),[53.0961],[-1.6105],11,26,45,10,85
 Snake Mine (Coe to 80' level),[53.0961],[-1.6105],11,26
-Snake Mine (Coe to 230' level via 140' Shaft. No connection to climbing shaft),[53.0961],[-1.6105],11,26,40,10
-Snake Mine (Coe to 230' level via Climbing Shaft. No connection to 140' shaft),[53.0961],[-1.6105],11,26,50
-Snake Mine (Coe to Lower Shaft via Chain Ladder Shaft),[53.0961],[-1.6105],11,26,40,45
+Snake Mine (Coe to 230' level via 140' Shaft. No connection to climbing shaft),[53.0961],[-1.6105],11,26,45,10
+Snake Mine (Coe to 230' level via Climbing Shaft. No connection to 140' shaft),[53.0961],[-1.6105],11,26,10,15,10,50
+Snake Mine (Coe to Lower Shaft via Chain Ladder Shaft),[53.0961],[-1.6105],11,26,10,15,40,45
 Snake Mine (Main Shaft to 230' level. Connection to 140' shaft. No connection to climbing shaft),[53.0961],[-1.6105],85
 Snake Mine (Main Shaft to 250' level),[53.0961],[-1.6105],85
-Snake Mine (Engine Shaft to 230' level via Climbing Shaft. No connection to 140' shaft),[53.0961],[-1.6105],53,50
-Snake Mine (Engine Shaft to 230' level via 140' Shaft. No connection to climbing shaft),[53.0961],[-1.6105],53,40,10
-Snake Mine (Engine Shaft to Lower Shaft via Chain Ladder Shaft),[53.0961],[-1.6105],53,40,45
+Snake Mine (Engine Shaft to 230' level via Climbing Shaft. No connection to 140' shaft),[53.0961],[-1.6105],53,15,10,50
+Snake Mine (Engine Shaft to 230' level via 140' Shaft.),[53.0961],[-1.6105],53,45,10
+Snake Mine (Engine Shaft to Lower Shaft via Chain Ladder Shaft),[53.0961],[-1.6105],53,15,40,45
 Bottle Pot,[53.2093],[-1.9033],21,25
 Robin's Shaft Mine,[53.0721],[-1.7992],110
 Whalf Mine Engine Shaft (direct),[53.2025],[-1.7845],65
