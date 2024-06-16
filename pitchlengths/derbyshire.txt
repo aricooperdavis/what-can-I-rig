@@ -104,6 +104,8 @@ Lathkill Head Cave. Garden Path Entrance,[53.1905],[-1.7543],35,30
 Lathkill Head Cave. Top Entrance,[53.1905],[-1.7512],35
 Water Icicle Close Cavern,[53.1781],[-1.7605],34
 Carlswark Cavern. Eyam Dale Shaft,[53.2802],[-1.6739],23
+Cussey Pot. To Inglorious Bastards,[53.2853],[-1.6783],15,20,30
+Cussey Pot. To Rocky Horror,[53.2853],[-1.6783],15,25,30
 Eyam Dale House Cave,[53.2829],[-1.6721],25,10
 Hungerhill Swallet,[53.2891],[-1.6871],50
 Lay-by Pot,[53.2806],[-1.6962],24
