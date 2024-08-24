@@ -37,11 +37,11 @@ Nettle Pot (Crumble Pot and Beza Pot),[53.3347],[-1.8134],28,35,16,4,40,24,24,20
 Odin Mine (To Cartgate Chamber),[53.3479],[-1.8018],15,15,8,25,15,25,15,7
 Odin Mine (To Bell Chamber and pitch below),[53.3479],[-1.8018],15,15,8,25,15,25,15,7,20,20
 Oxlow Cavern (To West Chamber (Maskhill Connection)),[53.3364],[-1.8151],38,24,31,50,30
-Oxlow Cavern (To East Chamber),[53.3364],[-1.8151],38,24,31,12
-Oxlow Cavern (To Pool Chamber (the lowest point)),[53.3364],[-1.8151],38,24,31,50,30,18,5
-Oxlow Cavern (To Pilgrim's Way and connection to Giant's Hole),[53.3364],[-1.8151],38,24,31,50,30,20
-Oxlow Cavern (To Pilgrim's Way and North Pitch),[53.3364],[-1.8151],38,24,31,50,30,20,12
-Oxlow Cavern - Maskhill Mine exchange trip,[53.3364],[-1.8151],38,24,31,50,30,65,60,38,47,40,18
+Oxlow Cavern (To East Chamber),[53.3364],[-1.8151],43,24,31,12
+Oxlow Cavern (To Pool Chamber (the lowest point)),[53.3364],[-1.8151],43,24,31,50,30,18,5
+Oxlow Cavern (To Pilgrim's Way and connection to Giant's Hole),[53.3364],[-1.8151],43,24,31,50,30,20
+Oxlow Cavern (To Pilgrim's Way and North Pitch),[53.3364],[-1.8151],43,24,31,50,30,20,12
+Oxlow Cavern - Maskhill Mine exchange trip,[53.3364],[-1.8151],43,24,31,50,30,65,60,38,47,40,18
 P8 (With the water. Idiot's Leap First Waterfall Pitch and True Second Pitch),[53.3329],[-1.8395],5,16,13
 P8 (Idiot's Leap and Traverse to Iron Ladder Pitch and Gour Passage),[53.3329],[-1.8395],5,21,25,10
 P8 (Idiot's Leap and Traverse to Mud Hall),[53.3329],[-1.8395],5,21,25,12
