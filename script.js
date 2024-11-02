@@ -106,9 +106,9 @@ goButton.onclick = function calculate() {
   // Get values of inputs
   let ropes = [];
   for (let el of document.getElementsByClassName('rope')) {
-    ropes.push(el.firstChild.value);
+    ropes.push(parseInt(el.firstChild.value));
   };
-  ropes = ropes.map(el => parseInt(el)).filter(el => el).sort((a, b) => a < b);
+  ropes = ropes.sort();
   let join_ropes = document.getElementById('join').checked;
 
   // Reset output
