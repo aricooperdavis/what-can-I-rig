@@ -26,7 +26,7 @@ James Hall Over Engine Mine (JH) (Original Leviathan route),[53.3347],[-1.7987],
 James Hall Over Engine Mine (JH) (Alternative Leviathan route),[53.3347],[-1.7987],60,48,40,35,35
 Longcliffe Mine (2018 Extensions),[53.3396],[-1.7906],38,22,14
 Longcliffe Mine (High Level Workings),[53.3396],[-1.7906],38,10,15
-Son of Longcliffe,[53.3392][-1.7888],15
+Son of Longcliffe,[53.3392],[-1.7888],15
 Maskhill Mine (To Pool Chamber via Waterfall Chamber),[53.3363],[-1.8176],65,60,38,47,40,5
 Maskhill Mine (To Pool Chamber via Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18,5
 Maskhill Mine (To Oxlow West Chamber),[53.3363],[-1.8176],65,60,38,47,40,18
