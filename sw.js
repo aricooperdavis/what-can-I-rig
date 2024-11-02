@@ -31,7 +31,7 @@ self.addEventListener('activate', (e) => {
 
 // On fetch serve files from cache (if available)
 self.addEventListener('fetch', (e) => {
-    e.responseWith((async () => {
+    e.respondWith((async () => {
         let r = await caches.match(e.request, {ignoreSearch: true});
         // Serve cached file
         if (r) { return r; }
