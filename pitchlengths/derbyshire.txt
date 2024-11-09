@@ -73,6 +73,7 @@ Titan (to the bottom),[53.3333],[-1.7932],50,80,65
 Titan (to Titan Streamway),[53.3333],[-1.7932],50,80
 Winnats Head Cave(upstream pitches),[53.3421],[-1.8041]
 Winnats Head Cave(downstream pitches),[53.3421],[-1.8041],27,23,24
+Middle Engine Mine (Main shaft),[53.255],[-1.6633],60
 Clatterway Levels,[53.1165],[-1.5799],15,10
 Deep Shaft (AKA Day Shaft),[53.1329],[-1.565],85
 Gentlewoman's Pipe Climbing Shaft,[53.1281],[-1.571],44
