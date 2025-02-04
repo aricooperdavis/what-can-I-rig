@@ -42,7 +42,7 @@ Oxlow Cavern (To Pool Chamber (the lowest point)),[53.3364],[-1.8151],43,24,31,5
 Oxlow Cavern (To Pilgrim's Way and connection to Giant's Hole),[53.3364],[-1.8151],43,24,31,50,30,20
 Oxlow Cavern (To Pilgrim's Way and North Pitch),[53.3364],[-1.8151],43,24,31,50,30,20,12
 Oxlow Cavern - Maskhill Mine exchange trip,[53.3364],[-1.8151],43,24,31,50,30,65,60,38,47,40,18
-P8 (With the water. Idiot's Leap First Waterfall Pitch and True Second Pitch),[53.3329],[-1.8395],5,20,13
+P8 (With the water. Idiot's Leap First Waterfall Pitch and True Second Pitch),[53.3329],[-1.8395],5,20,18
 P8 (Idiot's Leap and Traverse to Iron Ladder Pitch and Gour Passage),[53.3329],[-1.8395],5,25,25,10
 P8 (Idiot's Leap and Traverse to Mud Hall),[53.3329],[-1.8395],5,25,25,12
 P8 (High Level all the way to Mud Hall),[53.3329],[-1.8395],25,25,25,12
