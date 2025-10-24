@@ -67,8 +67,10 @@ Rowter Hole (to Crystal Orechasm),[53.3377],[-1.7997],40,33,15,5,5,50,35,5,4,5,3
 Rowter Hole (to Hourglass Aven),[53.3377],[-1.7997],40,33,15,5,5,50,35,5,4,5,30
 Rowter Hole (to stream sink),[53.3377],[-1.7997],40,33,30
 Sidetrack Cave cliff access,[53.3305],[-1.8261],18
-Snelslow Swallet (Main Entrance to Main Chamber),[53.3375],[-1.8326],18,40
-Snelslow Swallet (Main Entrance to lowest point),[53.3375],[-1.8326],18,40,35
+Snelslow Swallet (Swallet Entrance to Main Chamber),[53.3375],[-1.8326],18,40
+Snelslow Swallet (Swallet Entrance to lowest point),[53.3375],[-1.8326],18,40,35
+Snelslow Swallet (Shaft Entrance to Main Chamber),[53.3375],[-1.8326],65
+Snelslow Swallet (Shaft Entrance to lowest point),[53.3375],[-1.8326],65,35
 Suicide Cave,[53.3411],[-1.7949],15,20
 Titan (to the bottom),[53.3333],[-1.7932],50,80,65
 Titan (to Titan Streamway),[53.3333],[-1.7932],50,80
@@ -99,9 +101,9 @@ Whalf Mine Climbing Shaft,[53.2025],[-1.7845],45,10
 Hillocks Mine,[53.202],[-1.7841],11,32
 Hillocks Mine to Knotlow Cavern (via Mecccano Passage),[53.202],[-1.7841],11,32,23
 Knotlow Cavern (Climbing Shaft to Waterfall Chamber),[53.2034],[-1.7861],24,20,23
-Knotlow Cavern (Climbing Shaft to Waterfall Chamber via Chain Passage),[53.2034],[-1.7861],24,20,9,36
-Knotlow Cavern (Chapel Dale Engine Shaft direct),[53.2036],[-1.7863],70
-Knotlow Cavern (Chapel Dale Engine Shaft with rebelay at Chain Passage),[53.2036],[-1.7863],38,36
+Knotlow Cavern (Climbing Shaft to Waterfall Chamber via Chain Passage),[53.2034],[-1.7861],24,20,50
+Knotlow Cavern (Chapel Dale Engine Shaft direct),[53.2036],[-1.7863],75
+Knotlow Cavern (Chapel Dale Engine Shaft via rebelay at Chain Passage),[53.2036],[-1.7863],80
 Lathkill Head Cave. Garden Path Entrance,[53.1905],[-1.7543],35,30
 Lathkill Head Cave. Top Entrance,[53.1905],[-1.7512],35
 Water Icicle Close Cavern,[53.1781],[-1.7605],34
@@ -109,7 +111,7 @@ Carlswark Cavern. Eyam Dale Shaft,[53.2802],[-1.6739],20
 Cussey Pot. To Inglorious Bastards,[53.2853],[-1.6783],15,20,30
 Cussey Pot. To Rocky Horror,[53.2853],[-1.6783],15,25,30
 Eyam Dale House Cave,[53.2829],[-1.6721],25,10
-Hungerhill Swallet,[53.2891],[-1.6871],50
+Hungerhill Swallet,[53.2891],[-1.6871],60
 Lay-by Pot,[53.2806],[-1.6962],24
 Merlin's Mine (via Lower Adit Entrance),[53.2797],[-1.6749],12
 Merlin's Mine (via Upper Entrance),[53.2798],[-1.6748],12,12
@@ -119,4 +121,5 @@ Nickergrove Mine. Pallet Shaft to Main Level,[53.2805],[-1.678],16,12
 Nickergrove Mine. Adit Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2802],[-1.6783],10,10,10,12
 Nickergrove Mine. Hillside Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2806],[-1.6783],20,10,12
 Nickergrove Mine. Adit Entrance to Clay Chamber,[53.2797],[-1.6749],18
+Streaks Pot,[53.2797],[-1.6834],20
 Putwell Hill Mine,[53.2416],[-1.7355],15,35
