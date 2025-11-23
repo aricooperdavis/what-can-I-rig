@@ -115,7 +115,7 @@ Hungerhill Swallet,[53.2891],[-1.6871],60
 Lay-by Pot,[53.2806],[-1.6962],24
 Merlin's Mine (via Lower Adit Entrance),[53.2797],[-1.6749],12
 Merlin's Mine (via Upper Entrance),[53.2798],[-1.6748],12,12
-Middleton Dale Mine. Hope Shaft to Level 7,[53.2795],[-1.6761],35,15
+Middleton Dale Mine. Hope Shaft to Level 7,[53.2795],[-1.6761],35,20
 Nickergrove Mine. Adit Entrance to Main Level,[53.2802],[-1.6783],12
 Nickergrove Mine. Pallet Shaft to Main Level,[53.2805],[-1.678],16,12
 Nickergrove Mine. Adit Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2802],[-1.6783],10,10,10,12
