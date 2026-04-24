@@ -116,10 +116,10 @@ Lay-by Pot,[53.2806],[-1.6962],24
 Merlin's Mine (via Lower Adit Entrance),[53.2797],[-1.6749],12
 Merlin's Mine (via Upper Entrance),[53.2798],[-1.6748],12,12
 Middleton Dale Mine. Hope Shaft to Level 7,[53.2795],[-1.6761],35,20
-Nickergrove Mine. Adit Entrance to Main Level,[53.2802],[-1.6783],12
-Nickergrove Mine. Pallet Shaft to Main Level,[53.2805],[-1.678],16,12
-Nickergrove Mine. Adit Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2802],[-1.6783],10,10,10,12
-Nickergrove Mine. Hillside Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2806],[-1.6783],20,10,12
+Nickergrove Mine. Adit Entrance to Main Level,[53.2802],[-1.6783],15
+Nickergrove Mine. Pallet Shaft to Main Level,[53.2805],[-1.678],16,15
+Nickergrove Mine. Adit Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2802],[-1.6783],15,10,10,18
+Nickergrove Mine. Hillside Entrance to Didsbury Entrance (Didsbury must be rigged for through trip),[53.2806],[-1.6783],20,10,18
 Nickergrove Mine. Adit Entrance to Clay Chamber,[53.2797],[-1.6749],18
 Streaks Pot,[53.2797],[-1.6834],20
 Putwell Hill Mine,[53.2416],[-1.7355],15,35
