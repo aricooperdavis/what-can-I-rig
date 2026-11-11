@@ -94,7 +94,7 @@ Snake Mine (Engine Shaft to 230' level via Climbing Shaft. No connection to 140'
 Snake Mine (Engine Shaft to 230' level via 140' Shaft.),[53.0961],[-1.6105],53,45,10
 Snake Mine (Engine Shaft to Lower Shaft via Chain Ladder Shaft),[53.0961],[-1.6105],53,15,40,45
 Bottle Pot,[53.2093],[-1.9033],21,25
-Owl Hole,[53.2116,-1.8953],30,15
+Owl Hole,[53.2116],[-1.8953],30,15
 Robin's Shaft Mine,[53.0721],[-1.7992],110
 Whalf Mine Engine Shaft (direct),[53.2025],[-1.7845],65
 Whalf MineEngine Shaft (alternative),[53.2025],[-1.7845],50,30
